@@ -1,6 +1,5 @@
 ---
-layout: page
-title: privatepolicy
+layout: default
 permalink: /privatepolicy/
 ---
 ## [Agreed to collect and use Kakao's personal information]
