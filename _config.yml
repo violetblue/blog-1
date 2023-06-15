@@ -24,7 +24,7 @@ description: 소소한 일상
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  EkSunrise
+github_username:  violetblue
 
 # Build settings
 #theme: jekyll-theme-clean-blog
